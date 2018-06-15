@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#00a885",
+        "primaryColor": "#1be455",
         "secondaryColor": "#1d1a23",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -23,15 +23,17 @@
       "additionalSetColors": [
         "#1d1a23",
         "#284360",
-        "#323232"
+        "#323232",
+        "#1be455"
       ]
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 103,
-    "versionPublish": "4.6.2",
+    "versionPublish": "4.7.7",
     "path": "@PROJECT_PATH@",
     "snow": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -60,10 +62,10 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#1be455",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">&nbsp;QUOTE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">&nbsp;QUOTE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -77,13 +79,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#1be455"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#1be455"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#1be455",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-family": "'Lato', sans-serif"
             },
@@ -106,7 +108,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#1be455",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -116,7 +118,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#00a885!important"
+              "color": "#1be455!important"
             }
           },
           "logo": {
@@ -168,7 +170,7 @@
           "_anchor": "header1-9",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#00a885",
+              "color": "#1be455",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "text-align": "center"
@@ -192,7 +194,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright © 2012 KoTech Developers&nbsp;<br>",
+          "text": "Copyright © 2018 KoTech Developers&nbsp;<br>",
           "_tags": [
             "Theme"
           ],
@@ -236,10 +238,10 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#1be455",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">&nbsp;QUOTE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">&nbsp;QUOTE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -253,13 +255,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#1be455"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#1be455"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#1be455",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-family": "'Lato', sans-serif"
             },
@@ -282,7 +284,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#1be455",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -292,7 +294,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#00a885!important"
+              "color": "#1be455!important"
             }
           },
           "logo": {
@@ -327,7 +329,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright © 2012 KoTech Developers&nbsp;<br>",
+          "text": "Copyright © 2018 KoTech Developers&nbsp;<br>",
           "_tags": [
             "Theme"
           ],
@@ -349,7 +351,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#00a885"
+              "color": "#1be455"
             }
           },
           "_params": {
@@ -460,7 +462,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": "100",
-              "color": "#00a885"
+              "color": "#1be455"
             }
           },
           "media2": {
@@ -472,7 +474,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": "100",
-              "color": "#00a885"
+              "color": "#1be455"
             }
           },
           "media3": {
@@ -484,7 +486,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": "100",
-              "color": "#00a885"
+              "color": "#1be455"
             }
           },
           "media4": {
@@ -619,10 +621,10 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#1be455",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">&nbsp;QUOTE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">&nbsp;QUOTE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -636,13 +638,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#1be455"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#1be455"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#1be455",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-family": "'Lato', sans-serif"
             },
@@ -665,7 +667,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#1be455",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -675,7 +677,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#00a885!important"
+              "color": "#1be455!important"
             }
           },
           "logo": {
@@ -703,7 +705,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#00a885"
+              "color": "#1be455"
             }
           },
           "_params": {
@@ -747,7 +749,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright © 2012 KoTech Developers&nbsp;<br>",
+          "text": "Copyright © 2018 KoTech Developers&nbsp;<br>",
           "_tags": [
             "Theme"
           ],
@@ -796,7 +798,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#00a885"
+              "color": "#1be455"
             }
           },
           "media2": {
@@ -808,7 +810,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#00a885"
+              "color": "#1be455"
             }
           },
           "media3": {
@@ -820,7 +822,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#00a885"
+              "color": "#1be455"
             }
           },
           "media4": {
@@ -832,7 +834,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#00a885"
+              "color": "#1be455"
             }
           },
           "media5": {
@@ -927,7 +929,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#00a885"
+              "color": "#1be455"
             }
           },
           "media2": {
@@ -939,7 +941,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#00a885"
+              "color": "#1be455"
             }
           },
           "media3": {
@@ -951,7 +953,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#00a885"
+              "color": "#1be455"
             }
           },
           "media4": {
@@ -963,7 +965,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#00a885"
+              "color": "#1be455"
             }
           },
           "media5": {
@@ -1050,10 +1052,10 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#1be455",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">&nbsp;QUOTE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">&nbsp;QUOTE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1198,7 +1200,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright © 2012 KoTech Developers&nbsp;<br>",
+          "text": "Copyright © 2018 KoTech Developers&nbsp;<br>",
           "_tags": [
             "Theme"
           ],
@@ -1216,7 +1218,7 @@
         }
       ]
     },
-    "page4.html": {
+    "contact.html": {
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "contact us",
@@ -1239,10 +1241,10 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#1be455",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">&nbsp;QUOTE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">&nbsp;QUOTE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1256,13 +1258,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#1be455"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#1be455"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#1be455",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-family": "'Lato', sans-serif"
             },
@@ -1285,7 +1287,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#1be455",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1295,7 +1297,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#00a885!important"
+              "color": "#1be455!important"
             }
           },
           "logo": {
@@ -1330,7 +1332,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright © 2012 KoTech Developers&nbsp;<br>",
+          "text": "Copyright © 2018 KoTech Developers&nbsp;<br>",
           "_tags": [
             "Theme"
           ],
@@ -1352,7 +1354,7 @@
               "color": "#232323"
             },
             ".mbr-section-title": {
-              "color": "#00a885",
+              "color": "#1be455",
               "text-align": "center"
             }
           },
@@ -1394,7 +1396,7 @@
           },
           "title": "LEAVE A REPLY FOR US!",
           "subtitle": "we will get back to you",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
             "action": "lumocigwad@gmail.com",
             "alerts": {
